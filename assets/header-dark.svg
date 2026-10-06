@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-label="Dor Cohen — Software Engineer, Backend and Full-Stack">
+<rect width="1200" height="285" rx="24" fill="#0d1728"/>
+<g stroke="#20344d" stroke-width="1"><path d="M880 0v285M960 0v285M1040 0v285M1120 0v285M840 65h360M840 145h360M840 225h360"/></g>
+<rect x="45" y="43" width="5" height="198" rx="2" fill="#0fa6a1"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="73" y="72" font-size="17" letter-spacing="3" fill="#adbed5">BUILD · SHIP · SECURE</text>
+<text x="69" y="140" font-size="57" font-weight="700" fill="#eff6ff">Dor Cohen</text>
+<text x="73" y="187" font-size="27" fill="#eff6ff">Software Engineer · Backend / Full-Stack</text>
+<text x="73" y="224" font-size="19" fill="#adbed5">Production products. Thoughtful systems. Security in the details.</text></g>
+<g fill="#0d1728" stroke-width="3"><rect x="920" y="73" width="155" height="139" rx="15" stroke="#0fa6a1"/><path d="m976 111-23 24 23 24m43-48 23 24-23 24m-28 12 13-75" fill="none" stroke="#6997e5" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

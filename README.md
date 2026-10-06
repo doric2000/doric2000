@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
   <img alt="Dor Cohen — Software Engineer, Backend and Full-Stack" src="assets/header-light.svg" width="100%">
@@ -16,7 +18,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **React Native / Expo · TypeScript · Firebase · Node.js · GitHub Actions**
 
-![PlanLi: mobile experience, authentication, backend, and delivery](assets/planli.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/planli-mobile.svg">
+  <img alt="PlanLi: mobile experience, authentication, backend, and delivery" src="assets/planli.svg" width="100%">
+</picture>
 
 [Code & engineering overview](https://github.com/doric2000/PlanLi) · [App Store](https://apps.apple.com/il/app/planli-travels/id6801453067) · [Google Play](https://play.google.com/store/apps/details?id=com.planli.planlitravels) · [Case study](docs/planli.md)
 
@@ -26,7 +31,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **React · TypeScript · Node.js / Express · PostgreSQL · Python · OR-Tools**
 
-![Schedule: React client, Node API, PostgreSQL, and CP-SAT solver](assets/schedule.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/schedule-mobile.svg">
+  <img alt="Schedule: React client, Node API, PostgreSQL, and CP-SAT solver" src="assets/schedule.svg" width="100%">
+</picture>
 
 [Shared repository](https://github.com/RoyNaor/PlanLi-Schedule) · [My commits](https://github.com/RoyNaor/PlanLi-Schedule/commits?author=doric2000) · [Case study](docs/schedule.md)
 
@@ -36,7 +44,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **FastAPI · Celery · Redis · Streamlit · scikit-learn / XGBoost · Docker**
 
-![Classifier: CSV upload, Redis queue, Celery inference, and result polling](assets/radcom.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/radcom-mobile.svg">
+  <img alt="Classifier: CSV upload, Redis queue, Celery inference, and result polling" src="assets/radcom.svg" width="100%">
+</picture>
 
 [Code & setup](https://github.com/doric2000/RadcomProject) · [Case study](docs/radcom.md)
 
@@ -48,7 +59,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **Python · FastAPI · Kismet · SQLite · JavaScript · Docker**
 
-![Wireless monitoring: capture, detection, persistent state, and UI](assets/wifi.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/wifi-mobile.svg">
+  <img alt="Wireless monitoring: capture, detection, persistent state, and UI" src="assets/wifi.svg" width="100%">
+</picture>
 
 [Sanitized code & lab setup](https://github.com/doric2000/wifi-threat-detection-portfolio) · [Case study](docs/wifi.md)
 
@@ -58,7 +72,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **Python · MQTT · Frigate · FFmpeg · vLLM / Ollama · Docker**
 
-![Video pipeline: events, contextual gating, evidence, and local models](assets/video.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/video-mobile.svg">
+  <img alt="Video pipeline: events, contextual gating, evidence, and local models" src="assets/video.svg" width="100%">
+</picture>
 
 [Sanitized code & integration guide](https://github.com/doric2000/ai-video-security-portfolio) · [Case study](docs/video.md)
 
@@ -68,7 +85,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **Python · LLM agents · Ollama · Action gating · Experiment telemetry**
 
-![Defense research: simulator observation, LLM agent, action gate, and evaluation](assets/acd.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/acd-mobile.svg">
+  <img alt="Defense research: simulator observation, LLM agent, action gate, and evaluation" src="assets/acd.svg" width="100%">
+</picture>
 
 [Fork & contribution map](https://github.com/doric2000/llms-are-acd) · [Case study & evidence limits](docs/acd.md)
 

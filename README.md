@@ -27,13 +27,18 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 [Code & engineering overview](https://github.com/doric2000/PlanLi) · [App Store](https://apps.apple.com/il/app/planli-travels/id6801453067) · [Google Play](https://play.google.com/store/apps/details?id=com.planli.planlitravels) · [Case study](docs/planli.md)
 
-### 02 · Spanish for the Big Trip *(in development)*
+### 02 · Spanish for the Big Trip
 
-**A learning app with a typed backend.** A Spanish-learning iPhone app for Hebrew speakers. I built the NestJS API (token auth guard, repository layer over Supabase PostgreSQL, unit and end-to-end tests), the SQL migrations, and a Zod-validated lesson-content pipeline. The mobile app is in progress and has not been released.
+**A learning app with a typed backend.** A Spanish-learning iPhone app for Hebrew speakers. I built the NestJS API (token auth guard, repository layer over Supabase PostgreSQL, unit and end-to-end tests), the SQL migrations, and a Zod-validated lesson-content pipeline. The mobile app is still in development and has not been released.
 
 **NestJS · TypeScript · Supabase / PostgreSQL · React Native / Expo · Zod**
 
-[Code & setup](https://github.com/doric2000/spanish-for-the-big-trip)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/spanish-mobile.svg">
+  <img alt="Spanish for the Big Trip: lesson content, Supabase, NestJS API, and Expo app" src="assets/spanish.svg" width="100%">
+</picture>
+
+[Code & setup](https://github.com/doric2000/spanish-for-the-big-trip) · [Case study](docs/spanish.md)
 
 ### 03 · PlanLi Schedule
 
@@ -111,4 +116,4 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 **How I work:** own features across the stack, make behavior testable, review security boundaries, and follow changes through delivery and operation.
 
-<sub>Portfolio reviewed 6 October 2026. Internship copies use synthetic examples. Historical test counts and experimental results are dated and qualified in the linked case studies.</sub>
+<sub>Portfolio updated 21 October 2026. Internship copies use synthetic examples. Historical test counts and experimental results are dated and qualified in the linked case studies.</sub>

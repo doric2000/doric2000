@@ -6,6 +6,8 @@
 
 ![Architecture](../assets/planli.svg)
 
+![Screens](../assets/planli-screens.png)
+
 ## Evidence to inspect
 
 - [Client](https://github.com/doric2000/PlanLi/tree/main/client) and [backend](https://github.com/doric2000/PlanLi/tree/main/functions).

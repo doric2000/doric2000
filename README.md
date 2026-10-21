@@ -23,6 +23,8 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
   <img alt="PlanLi: mobile experience, authentication, backend, and delivery" src="assets/planli.svg" width="100%">
 </picture>
 
+<img alt="PlanLi screens: community feed, recommendation map, and home" src="assets/planli-screens.png" width="100%">
+
 [Code & engineering overview](https://github.com/doric2000/PlanLi) · [App Store](https://apps.apple.com/il/app/planli-travels/id6801453067) · [Google Play](https://play.google.com/store/apps/details?id=com.planli.planlitravels) · [Case study](docs/planli.md)
 
 ### 02 · PlanLi Schedule

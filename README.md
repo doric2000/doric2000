@@ -27,7 +27,15 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 [Code & engineering overview](https://github.com/doric2000/PlanLi) · [App Store](https://apps.apple.com/il/app/planli-travels/id6801453067) · [Google Play](https://play.google.com/store/apps/details?id=com.planli.planlitravels) · [Case study](docs/planli.md)
 
-### 02 · PlanLi Schedule
+### 02 · Spanish for the Big Trip *(in development)*
+
+**A learning app with a typed backend.** A Spanish-learning iPhone app for Hebrew speakers. I built the NestJS API (token auth guard, repository layer over Supabase PostgreSQL, unit and end-to-end tests), the SQL migrations, and a Zod-validated lesson-content pipeline. The mobile app is in progress and has not been released.
+
+**NestJS · TypeScript · Supabase / PostgreSQL · React Native / Expo · Zod**
+
+[Code & setup](https://github.com/doric2000/spanish-for-the-big-trip)
+
+### 03 · PlanLi Schedule
 
 **Constraints into editable shift plans.** A collaborative scheduling system combining staff availability, manager workflows, and CP-SAT optimization. My contributions include monthly planning logic, worker-type management, solver integration, and related tests. Co-built with **Roy Naor, Ofek, and Baruh Ifraimov**.
 
@@ -40,7 +48,7 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 [Shared repository](https://github.com/RoyNaor/PlanLi-Schedule) · [My commits](https://github.com/RoyNaor/PlanLi-Schedule/commits?author=doric2000) · [Case study](docs/schedule.md)
 
-### 03 · RADCOM Cyber Classifier
+### 04 · RADCOM Cyber Classifier
 
 **ML inference behind an asynchronous service.** CSV uploads become queued classification jobs with task IDs, result polling, and downloadable predictions. Co-built with **Baruh Ifraimov**; my work spans classification and the service integration.
 
@@ -55,7 +63,7 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 ## Security Engineering & Applied AI
 
-### 04 · Wireless Threat Detection
+### 05 · Wireless Threat Detection
 
 **Passive observations into reviewable alerts.** An internship system for Wi-Fi device fingerprinting, lingering-device and suspicious-SSID heuristics, persistent state, and operator monitoring. I built the application around upstream Kismet capture.
 
@@ -68,7 +76,7 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 [Sanitized code & lab setup](https://github.com/doric2000/wifi-threat-detection-portfolio) · [Case study](docs/wifi.md)
 
-### 05 · AI Video Security Pipeline
+### 06 · AI Video Security Pipeline
 
 **Security context around video events.** An internship pipeline that gates Frigate/MQTT events, retrieves evidence clips, coordinates local multimodal inference, and records structured decisions. I built the worker and operator interface around upstream detection and model services.
 
@@ -81,7 +89,7 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 [Sanitized code & integration guide](https://github.com/doric2000/ai-video-security-portfolio) · [Case study](docs/video.md)
 
-### 06 · Autonomous Cyber Defense
+### 07 · Autonomous Cyber Defense
 
 **A research extension of an existing simulator and LLM agent.** Co-developed with **Baruh Ifraimov**, extending the work of **Castro et al.** with action validation, structured output handling, telemetry, local model configurations, and reproducible evaluation protocols.
 
@@ -96,6 +104,7 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
 
 ## More engineering work
 
+- [Job Radar](https://github.com/doric2000/job-radar) — a Python bot on GitHub Actions that polls public job-board APIs of Israeli tech companies every ~5 minutes, filters junior roles, deduplicates, and sends Telegram alerts; covered by unit tests.
 - [Concurrent Systems & Graph Algorithms](https://github.com/doric2000/OS-final-project) — co-built with Baruh Ifraimov: C++ TCP servers, Leader–Follower and Active Object designs, graph algorithms, and profiling artifacts.
 - [AMD-Agent](https://github.com/baruhifraimov/AMD-Agent) — co-authored with Baruh Ifraimov: an adaptive malware-detection research project using LightGBM, drift monitoring, and an LLM orchestration layer.
 - [Evil Twin Attack & Defense Lab](https://github.com/baruhifraimov/evil-twin-attack-tool) — team project in an authorized lab; my focus included interface integration, scanning, testing, and defense validation.

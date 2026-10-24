@@ -38,6 +38,10 @@ I’m a **Computer Science graduate** who builds and ships products, from mobile
   <img alt="Spanish for the Big Trip: lesson content, Supabase, NestJS API, and Expo app" src="assets/spanish.svg" width="100%">
 </picture>
 
+<img alt="Spanish for the Big Trip screens: sign-in, learning path, and first lesson" src="assets/spanish-screens.png" width="100%">
+
+<sub>Screens from the in-development iOS build.</sub>
+
 [Code & setup](https://github.com/doric2000/spanish-for-the-big-trip) · [Case study](docs/spanish.md)
 
 ### 03 · PlanLi Schedule

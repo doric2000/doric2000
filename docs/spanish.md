@@ -6,6 +6,10 @@
 
 ![Architecture](../assets/spanish.svg)
 
+![Screens](../assets/spanish-screens.png)
+
+Screens from the in-development iOS build: sign-in, the learning path, and the first lesson.
+
 **Status:** in development and not released. The first target is one complete unit; the full roadmap lives in the repository's planning files.
 
 [Source](https://github.com/doric2000/spanish-for-the-big-trip) · [API](https://github.com/doric2000/spanish-for-the-big-trip/tree/main/api) · [Migrations](https://github.com/doric2000/spanish-for-the-big-trip/tree/main/supabase/migrations)
